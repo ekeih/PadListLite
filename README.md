@@ -13,3 +13,6 @@ PadListLite gives you a simple overview about your EtherpadLite-Pads. It uses pa
 2. Recommended: create a MYSQL-User and grant SELECT permissions for your EtherpadLite database.
 3. Edit config.php
 4. Move files to your webserver (e.g. pads.example.com or examples.com/pads)
+
+## License
+GPL-3.0
