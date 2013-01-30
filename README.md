@@ -1,7 +1,7 @@
 PadListLite
 ===========
 
-A simple overview about your EtherpadLite-Pads.
+PadListLite gives you a simple overview about your EtherpadLite-Pads. It uses padnames to generate a simple structure of folders. So your padnames should be like this: `FOLDER_SUBFOLDER_PADNAME`.
 
 ## Requirements
 * webserver with PHP
