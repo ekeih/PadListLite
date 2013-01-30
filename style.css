@@ -1,0 +1,121 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #E0E0E0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+#container {
+    min-height: 100%;
+    position: relative;
+}
+
+#header {
+    padding-bottom: 15px;
+    border-bottom: 2px solid black;
+    border-top: 2px solid #D0D0D0;
+    background-color: #D0D0D0;
+}
+
+#header input {
+    margin: 0;
+    padding: 0;
+    height: 30px;
+    font-size: 15;
+    color: GREY;
+    font-weight: bold;
+    text-align: center;
+    background-color: #E0E0E0;
+    border: 1px solid #A0A0A0;
+}
+
+#newProject, #newFolder {
+    width: 90px;
+}
+
+#newPadname {
+    width: 120px;
+}
+
+#header button {
+    height: 29px;
+    border: 1px solid black;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    height: 20px;
+    width: 100%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid #D0D0D0;
+    background-color: #D0D0D0;
+    font-style: italic;
+    font-size: small;
+    color: #909090;
+}
+
+
+
+a:hover#home {
+    color: black;
+    background-color: grey;
+}
+
+#home {
+    background-color: lightgrey;
+    padding: 3px;
+    border: 1px solid black;
+}
+
+#content {
+    padding: 10px;
+    padding-bottom: 70px;
+}
+
+.main {
+    margin-bottom: 30px;
+    /*border-top: 1px solid #000;
+    /*clear: left;*/
+}
+
+.mainHeadline {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.sub {
+    /*border-left: 1px solid #000;
+    padding: 10px;
+    float: left;*/
+    width: 300px;
+}
+
+.subHeadline {
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.sub ul {
+    border-top: 1px solid black;
+    margin-top: 0;
+    padding-left: 20px;
+}
+
+.sub ul li {
+    margin: 0;
+    padding: 0;
+}
