@@ -3,6 +3,10 @@ PadListLite
 
 A simple overview about your EtherpadLite-Pads.
 
+## Requirements
+* webserver with PHP
+* an EtherpadLite-Instance, using MYSQL as storage
+
 ## Installation
 
 1. Clone this repository: `git clone git://github.com/ekeih/PadListLite.git`
