@@ -15,4 +15,4 @@ PadListLite gives you a simple overview about your EtherpadLite-Pads. It uses pa
 4. Move files to your webserver (e.g. pads.example.com or examples.com/pads)
 
 ## License
-GPL-3.0
+AGPL v3 or later
